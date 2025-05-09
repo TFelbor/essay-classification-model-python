@@ -1,4 +1,4 @@
-# Essay Classification: Student vs. LLM-Generated
+# CPSC444 : AI Final Project - Essay Classification: Student vs. LLM-Generated
 
 This project aims to classify essays as either student-written (`label 0`) or LLM-generated (`label 1`) using a binary classification model based on a neural network. The model is trained using pre-processed GloVe 100D embeddings and achieves strong performance metrics despite a severely imbalanced dataset.
 
